@@ -62,7 +62,9 @@ footer div {
 footer a {
     color: #024e76;
 }
-section {
-    padding: 60px;
-    background-image: url(.../images/hero-background);
+/* Hero Style Start*/
+.hero {
+    background-image: url(../css/images/Run-Buddy-Background.jpg);
+    height: 600px;
 }
+/* Hero Style End */
